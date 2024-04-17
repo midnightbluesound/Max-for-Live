@@ -1,2 +1,2 @@
-Clipper 1.0
-Reverb 0.5
+Clipper 1.0.1
+Reverb 0.5.0
