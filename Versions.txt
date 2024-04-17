@@ -1,0 +1,2 @@
+Clipper 1.0
+Reverb 0.5
