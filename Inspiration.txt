@@ -1,5 +1,3 @@
-Add a drone;
-
-Add a simple high hat groove;
-
-Add filter automation;
+1 Add a drone
+2 Add a simple high hat groove
+3 Add filter automation
